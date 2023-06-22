@@ -1,7 +1,8 @@
 
-# Pull Requests
+# Contribution to zowe-client-python-sdk
 
 - ## Repo - [zowe/zowe-client-python-sdk](https://github.com/aadityasinha-dotcom/zowe-client-python-sdk) [Language-Python]
+- ## [Project Plan](https://github.com/aadityasinha-dotcom/zowe-contributions/blob/main/project_plan.md)
   1. #### [Added support for Nested team config](https://github.com/zowe/zowe-client-python-sdk/pull/144)
   2. #### [[zos/jobs] Added method to hold/release a job](https://github.com/zowe/zowe-client-python-sdk/pull/186)
   3. #### [[zos-jobs] Added method to change the job class](https://github.com/zowe/zowe-client-python-sdk/pull/183)
